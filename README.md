@@ -14,5 +14,4 @@ git clone https://github.com/yourusername/MentallyHow.git
 cd MentallyHow
 ```
 ## Example:
-![Screenshot from 2024-09-30 23-05-55](https://github.com/user-attachments/assets/6fa3d16d-b31b-4846-bf78-44cdb33bce07)
-
+![Screenshot from 2024-09-30 23-05-55](https://github.com/user-attachments/assets/82ae6ddd-7985-4ab5-928e-5f658ba27f2b)
