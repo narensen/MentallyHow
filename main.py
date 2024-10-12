@@ -9,6 +9,6 @@ sentence_v = vectorizer.transform([sentence])
 prediction = model.predict(sentence_v)
 
 if prediction == 1:
-    print("You are INSANE!!!!!")
+    print("Negative")
 else:
-    print("You are normal")
+    print("Positive")
